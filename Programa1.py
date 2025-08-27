@@ -23,5 +23,9 @@ print(a**(1/2))
 
 # and or
 
+##Operadore diferenciales o logicos##
+
+# < > >= <= !=, not(opuesto a), ==
+
 #Para sacar un raiz cuadrada de un numero se deve de elevar el numero a la 1/2
 
