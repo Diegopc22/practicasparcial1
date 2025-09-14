@@ -1,3 +1,5 @@
+
+![py](https://github.com/user-attachments/assets/96b739d6-7880-4d11-86c5-4691e8996c21)
 🐍 Prácticas Python - Primer Parcial
 
 Este repositorio reúne una serie de ejercicios y prácticas en Python desarrollados durante el primer parcial de la materia de Programación.
