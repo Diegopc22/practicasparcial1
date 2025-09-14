@@ -27,7 +27,7 @@ def costo():  # (ES) Función principal que calcula los precios | (EN) Main func
         cos = float(pre * 0.12 + pre)  # (ES) Calcula el costo sumando 12% | (EN) Calculates cost adding 12%
         iva = float(pre * 0.16)  # (ES) Calcula el IVA 16% sobre el precio original | (EN) Calculates 16% VAT on original price
         iva = iva + cos  # (ES) Precio final sumando IVA al costo | (EN) Final price adding VAT to cost
-        print(f'El precio final de {nom} es ${cos:.2f}')  # (ES) Muestra el costo | (EN) Displays the cost
+        print(f'El costo final de {nom} es ${cos:.2f}')  # (ES) Muestra el costo | (EN) Displays the cost
         print(f'El precio final de {nom} es ${iva:.2f}')  # (ES) Muestra el precio final con IVA | (EN) Displays final price with VAT
         res = input('Deseas terminar este programa (s/n) \n')  # (ES) Pregunta si desea terminar | (EN) Asks if user wants to exit
         if res == 's' or res == 'S':  # (ES) Si responde sí, rompe el bucle | (EN) If yes, breaks loop

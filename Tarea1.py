@@ -19,4 +19,4 @@ while(d <= 9):  # (ES) Bucle hasta que se ingresen 10 datos válidos | (EN) Loop
           print('No es valido')  # (ES) Mensaje si el dato no es número ni letra | (EN) Message if input is not number or letter
 
 print(f'Estos son tus numeros ingresados {a}')  # (ES) Muestra los números | (EN) Shows the numbers
-print(f'Estas son las letras ingresadas')
+print(f'Estas son las letras ingresadas{b}')
