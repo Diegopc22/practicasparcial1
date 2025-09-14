@@ -1,6 +1,6 @@
 🐍 Prácticas Python - Primer Parcial
 Este repositorio reúne una serie de ejercicios y prácticas en Python desarrollados durante el primer parcial de la materia de Programación.
-El propósito principal es fortalecer los fundamentos del lenguaje, mediante ejemplos aplicados y tareas que abarcan sus estructuras esenciales.
+El propósito principal es fortalecer los fundamentos del lenguaje, mediante ejemplos aplicados y tareas que abarcan sus estructuras esenciales
 📂 Organización del repositorio
 El repositorio está compuesto por scripts en Python, archivos de repaso y material de apoyo:
 •	Prog01.py a Prog09.py → Programas principales vistos en clase, cada uno enfocado en distintos conceptos y problemas prácticos.
