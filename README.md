@@ -8,7 +8,7 @@ El propósito principal es fortalecer los fundamentos del lenguaje, mediante eje
 
 El repositorio está compuesto por scripts en Python, archivos de repaso y material de apoyo:
 
-    •	Prog01.py a Prog09.py → Programas principales vistos en clase, cada uno enfocado en distintos conceptos y problemas prácticos.
+        Prog01.py a Prog09.py → Programas principales vistos en clase, cada uno enfocado en distintos conceptos y problemas prácticos.
     
     •	Repaso1.py – Repaso3.py → Archivos con ejercicios adicionales para reforzar conocimientos.
     
